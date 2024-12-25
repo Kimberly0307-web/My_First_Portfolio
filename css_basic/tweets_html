@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My first portfolio </title>
+    <link href="base.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <ul>
+        <li><a href="index.html">Go to Homepage</a></li>
+        <a href="base_index.html">Go to base webpage</a>
+      </ul>
+    </header>
+    <h1>My favourite tweets</h1>
+  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Calling all developers! 📣<br><br>Innovate with our real-time and historical data on the X API.<br><br>Get started with Pro👇</p>&mdash; Developers (@XDevelopers) <a href="https://twitter.com/XDevelopers/status/1861111894100320572?ref_src=twsrc%5Etfw">November 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a href="index.html">Go back to Homepage</a> 
+    <main>
+      <article><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here are my favorite songs from this year! Check them out if you’re looking to shake up your playlist – and let me know if there’s a song or artist I should make sure to listen to. <a href="https://t.co/MK51Z77uEb">pic.twitter.com/MK51Z77uEb</a></p>&mdash; Barack Obama (@BarackObama) <a href="https://twitter.com/BarackObama/status/1870259429939265921?ref_src=twsrc%5Etfw">December 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></article>
+      <aside>
+        <p>placeholder to add comment thread later</p>
+      </aside>
+    </main>
+  <footer>Made by <Kimberly> - <a href="https://myclassroom.cput.ac.za/?new_loc=%2Fultra%2Fcourse" target="_blank">here</a></Footer>
+  </body>
+
+</html>
